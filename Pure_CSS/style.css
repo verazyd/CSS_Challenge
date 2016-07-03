@@ -108,3 +108,10 @@ a.button {
   text-decoration: none;
 }
 
+@media screen and (min-width: 1150px) {
+  body {
+    width: 1200px;
+  }
+}
+
+

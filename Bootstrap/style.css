@@ -36,10 +36,37 @@ body,html{
 /*Content style*/
 .row h1{
   margin: 30px 15px;
+  color: #696969;
 }
 
 .thumbnail{
   background-color: #f3f3f3;
   height:420px;
   padding: 0;
+}
+
+.thumbnail .caption h3{
+  color: #696969;
+}
+
+.thumbnail .caption p{
+  color: #A9A9A9;
+}
+
+.btn-default{
+  color: #C0C0C0;
+}
+
+.button {
+  display: block;
+  height: 40px;
+  width: 100px;
+  border: 4px solid #C0C0C0;
+  color: #C0C0C0;
+  text-align: center;
+  font: bold 1em/30px "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+a.button {
+  text-decoration: none;
 }

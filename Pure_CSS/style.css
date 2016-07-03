@@ -108,7 +108,8 @@ a.button {
   text-decoration: none;
 }
 
-@media screen and (min-width: 1150px) {
+/*when the page width is larger than 1200px, the body width will fix to 1200px*/
+@media screen and (min-width: 1200px) {
   body {
     width: 1200px;
   }

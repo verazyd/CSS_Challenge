@@ -1,5 +1,16 @@
 /*Author : Yidan Zhang (Vera)*/
 
+body,html{
+  margin:0;
+  padding: 0;
+}
+
+.container{
+  width:100%;
+  margin:0;
+  padding: 0;
+}
+
 /*Nav bar style*/
 .nav-justified {
   background-color: #e5e5e5;

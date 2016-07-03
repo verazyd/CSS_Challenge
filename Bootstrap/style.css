@@ -1,17 +1,5 @@
 /*Author : Yidan Zhang (Vera)*/
 
-body,html{
-  margin:0;
-  padding: 0;
-}
-
-/*Remove all margin*/
-.container{
-  width:100%;
-  margin:0;
-  padding: 0;
-}
-
 /*Nav bar style*/
 .nav-justified {
   background-color: #e5e5e5;
@@ -32,4 +20,15 @@ body,html{
 .nav-justified #login,#login_li{
   background-color: red;
   color:#fff;
+}
+
+/*Content style*/
+.row h1{
+  margin: 30px 15px;
+}
+
+.thumbnail{
+  background-color: #f3f3f3;
+  height:420px;
+  padding: 0;
 }
